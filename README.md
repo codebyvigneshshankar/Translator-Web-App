@@ -1,2 +1,2 @@
 ### Translator App 
-![](TranslationApp_Preview.jpg)
+![](screenshot/TranslationApp_Preview.jpg)
